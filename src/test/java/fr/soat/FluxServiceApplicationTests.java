@@ -1,4 +1,4 @@
-package fr.soat.fluxservice;
+package fr.soat;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
